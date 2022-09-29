@@ -1,5 +1,4 @@
-//https://cses.fi/problemset/task/1068/
-//Introductory Problems - Weird Algorithm
+//https://cses.fi/problemset/task/1068
 
 #include<bits/stdc++.h>
 using namespace std;
