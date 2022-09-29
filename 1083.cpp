@@ -1,5 +1,4 @@
 //https://cses.fi/problemset/task/1083
-//Introductory Problems - Missing Number
 
 #include <bits/stdc++.h>
 using namespace std;
