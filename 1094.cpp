@@ -1,5 +1,4 @@
 //https://cses.fi/problemset/task/1094
-//Introductory Problems - Increasing Array
 
 #include <bits/stdc++.h>
 using namespace std;
